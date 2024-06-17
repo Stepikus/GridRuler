@@ -1,7 +1,7 @@
 /**
  * ImageJ Plugin: Grid_Ruler
  * 
- * Description: This plugin facilitates the automated recognition of images with grid, measuring real size of particles and counting of particles based on their size
+ * Description: This plugin facilitates the automated recognition of images with grid (such as Bürker chamber), measuring real size of particles and counting of particles based on their size
  * 
  * Author: Stepan Helmer
  * 
