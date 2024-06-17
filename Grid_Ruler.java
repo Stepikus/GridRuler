@@ -1,7 +1,7 @@
 /**
  * ImageJ Plugin: Grid_Ruler
  * 
- * Description: This plugin facilitates the automated recognition of heamocytometer images, cropping the grid and counting of particles.
+ * Description: This plugin facilitates the automated recognition of images with grid, measuring real size of particles and counting of particles based on their size
  * 
  * Author: Stepan Helmer
  * 
@@ -9,7 +9,7 @@
  * 
  * Contact: stepan.helmer@vurv.cz
  * 
- * Date: [2024]
+ * Date: [06_17_2024]
  * 
  * License: [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007]
  * 
