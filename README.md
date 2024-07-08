@@ -5,6 +5,6 @@ GridRuler will do analysis of all your pictures in selected folder.
 
 The plugin was developed in Crop Researche institute, Prague. For comments write to an email stepan.helmer@vurv.cz
 
-Plugin will be later published in an article. 
+Plugin will be later published in an article in impact factor journal. 
 
 Plugin is freely available under licence GNU-GPL version 3.
