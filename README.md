@@ -5,5 +5,8 @@ This plugin was developed at the Crop Research Institute in Prague. For comments
 
 The plugin is freely available under the GNU-GPL version 3 license.
 
+## Tutorial 
+Tutorial is available
+
 ## Citation
 GridRuler will be featured in an article to be published in a journal with an impact factor.
