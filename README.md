@@ -1,10 +1,8 @@
 # GridRuler
-GridRuler is ImageJ plugin for analysing (counting and measuring) particles inside grid (such as spores inside Burker chamber or Red blood cells inside Neubauer chamber-hemocytometer).
-GridRuler is able to recognise lines of grid, these lines are then used as reference size for measurment of particles. (Therefore it is called gridRuler)
-GridRuler will do analysis of all your pictures in selected folder.
+GridRuler is an ImageJ plugin designed for analyzing (counting and measuring) particles within a grid, such as spores inside a Burker chamber or red blood cells inside a Neubauer chamber (hemocytometer). GridRuler can recognize grid lines, which are then used as a reference size for the measurement of particles. This functionality is the basis for its name, GridRuler. The plugin will analyze all images in a selected folder.
 
-The plugin was developed in Crop Researche institute, Prague. For comments write to an email stepan.helmer@vurv.cz
+This plugin was developed at the Crop Research Institute in Prague. For comments or inquiries, please contact stepan.helmer@vurv.cz.
 
-Plugin will be later published in an article in impact factor journal. 
+GridRuler will be featured in an article to be published in a journal with an impact factor.
 
-Plugin is freely available under licence GNU-GPL version 3.
+The plugin is freely available under the GNU-GPL version 3 license.
