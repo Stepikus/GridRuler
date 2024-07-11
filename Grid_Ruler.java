@@ -325,7 +325,7 @@ public class Grid_Ruler implements PlugInFilter {
                                 // Get the list of ROIs
                             Roi[] rois = roiManager.getRoisAsArray();
                             int count = roiManager.getCount();
-                            logparticle.append(NameOfFile + " ," + count + "\n");
+                            logparticle.append(NameOfFile + "\t" + count + "\n");
                             String Particle_data = logparticle.toString();
                             String Particle_path =  Result_folder + File.separator + "particle-count.csv";
                             try {
