@@ -6,6 +6,8 @@ This plugin was developed at the Crop Research Institute in Prague. For comments
 The plugin is freely available under the GNU-GPL version 3 license.
 
 ## Documents 
+Description of algorythm is ([here](https://github.com/Stepikus/GridRuler/blob/main/Algorithm%20description%20of%20GridRuler%20plugin%20for%20ImageJ.pdf)).
+
 Tutorial is available ([here](https://github.com/Stepikus/GridRuler/blob/main/Tutorial%20Grid_Ruler.pdf)).
 
 ## Citation
