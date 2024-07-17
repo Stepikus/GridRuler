@@ -12,3 +12,4 @@ Tutorial is available ([here](https://github.com/Stepikus/GridRuler/blob/main/Tu
 
 ## Citation
 GridRuler will be featured in an article to be published in a journal with an impact factor.
+![VURV-logo-01-default_EN-RGB](https://github.com/user-attachments/assets/d1c101cf-4663-4946-810e-03d2aa6342c9)
